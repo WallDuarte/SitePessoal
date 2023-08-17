@@ -144,5 +144,6 @@ body {
     .apresentacao__conteudo {
         width: auto;
         height: auto;
+        padding: 20% 0%;
     }
 }
